@@ -1,3 +1,4 @@
+<img src="https://github.com/satwikn07/satwikn07/raw/main/Images/display.gif" width="100%" />
 <h1 align="center">Hi 👋, I'm Devesh Verma</h1>
 <h3 align="center">A passionate full Stack developer from Masai School</h3>
 
