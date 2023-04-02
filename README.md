@@ -1,6 +1,8 @@
 <img src="https://github.com/satwikn07/satwikn07/raw/main/Images/display.gif" width="100%" />
 <h1 align="center">Hi 👋, I'm Devesh Verma</h1>
-<h3 align="center">A passionate full Stack developer from Masai School</h3>
+<h3 align="center">A passionate full Stack Software
+
+ Engineering from Thewebpatriot</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=webdeveshverma&label=Profile%20views&color=0e75b6&style=flat" alt="webdeveshverma" /> </p>
 
