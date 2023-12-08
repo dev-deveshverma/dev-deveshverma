@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-devesh-verma.vercel.app/](https://portfolio-devesh-verma.vercel.app/)
 
-- 📫 How to reach me **deveshdevlife@gmail.com**
+- 📫 How to reach me **webdeveshverma@gmail.com**
 
 - 📄 Know about my experiences [https://portfolio-devesh-verma.vercel.app/static/media/resume.6f7eccdb.pdf](https://portfolio-devesh-verma.vercel.app/static/media/resume.6f7eccdb.pdf)
 
