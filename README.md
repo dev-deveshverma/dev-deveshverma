@@ -22,11 +22,6 @@
 <a href="https://codepen.io/webdeveshverma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="webdeveshverma" height="30" width="40" /></a>
 <a href="https://twitter.com/webdeveshverma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="webdeveshverma" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/devesh-verma-6760761b8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/devesh-verma-6760761b8" height="30" width="40" /></a>
-<a href="https://codesandbox.com/webdeveshverma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="webdeveshverma" height="30" width="40" /></a>
-<a href="https://medium.com/@webdeveshverma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@webdeveshverma" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucjrqx2mbpxwlqlo6k9hjhpw/featured" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucjrqx2mbpxwlqlo6k9hjhpw/featured" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@devesh_fw14_192" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@devesh_fw14_192" height="30" width="40" /></a>
-<a href="https://discord.gg/webdeveshverma#9957" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="webdeveshverma#9957" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
