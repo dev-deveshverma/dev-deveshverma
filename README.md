@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Devesh Verma</h1>
+<h1 align="center">Devesh Verma</h1>
 <h3 align="center">A passionate full Stack Software Engineering </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=webdeveshverma&label=Profile%20views&color=0e75b6&style=flat" alt="webdeveshverma" /> </p>
